@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Im Kaliq!
 
 <!--
 **Kaliqnoel/KaliqNoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->## Certifications
+<img width="601" height="601" alt="comptia-network-ce-certification 1" src="https://github.com/user-attachments/assets/479a1e49-7596-47b8-bee5-d0a8336dbe1b" />
